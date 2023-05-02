@@ -21,7 +21,8 @@
     {
       "_id": "f69a695f037cd9484cecaea37ca71011",
       "name": "Nigella Lawson",
-      "picture": "https://i.ibb.co/687YCgx/female-chef-chopping-vegetables-kitchen-1.jpg",
+      "picture": "https://i.ibb.co/ZJ2pMf1/female-chef-standing-with-crossed-arms-white-uniform-looking-happy.jpg",
+     
       "years_of_experience": 20,
       "num_recipes": 100,
       "likes": 500000,
@@ -30,7 +31,7 @@
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
       "name": "Anthony Bourdain",
-      "picture": "https://i.ibb.co/ZJ2pMf1/female-chef-standing-with-crossed-arms-white-uniform-looking-happy.jpg",
+      "picture": "https://i.ibb.co/687YCgx/female-chef-chopping-vegetables-kitchen-1.jpg",
       "years_of_experience": 15,
       "num_recipes": 75,
       "likes": 250000,
