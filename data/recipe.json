@@ -1,0 +1,53 @@
+{
+    "chefs": [
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "name": "Gordon Ramsay",
+        "picture": "https://example.com/gordon-ramsay.jpg",
+        "years_of_experience": 30,
+        "num_recipes": 150,
+        "likes": 1000000
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "name": "Jamie Oliver",
+        "picture": "https://example.com/jamie-oliver.jpg",
+        "years_of_experience": 25,
+        "num_recipes": 200,
+        "likes": 750000
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "name": "Nigella Lawson",
+        "picture": "https://example.com/nigella-lawson.jpg",
+        "years_of_experience": 20,
+        "num_recipes": 100,
+        "likes": 500000
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "name": "Anthony Bourdain",
+        "picture": "https://example.com/anthony-bourdain.jpg",
+        "years_of_experience": 15,
+        "num_recipes": 75,
+        "likes": 250000
+      },
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "name": "Emeril Lagasse",
+        "picture": "https://example.com/emeril-lagasse.jpg",
+        "years_of_experience": 25,
+        "num_recipes": 120,
+        "likes": 500000
+      },
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "name": "Ina Garten",
+        "picture": "https://example.com/ina-garten.jpg",
+        "years_of_experience": 15,
+        "num_recipes": 90,
+        "likes": 350000
+      }
+    ]
+  }
+  
