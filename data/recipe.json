@@ -1,53 +1,70 @@
-{
-    "chefs": [
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "name": "Gordon Ramsay",
-        "picture": "https://example.com/gordon-ramsay.jpg",
-        "years_of_experience": 30,
-        "num_recipes": 150,
-        "likes": 1000000
-      },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-        "name": "Jamie Oliver",
-        "picture": "https://example.com/jamie-oliver.jpg",
-        "years_of_experience": 25,
-        "num_recipes": 200,
-        "likes": 750000
-      },
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71011",
-        "name": "Nigella Lawson",
-        "picture": "https://example.com/nigella-lawson.jpg",
-        "years_of_experience": 20,
-        "num_recipes": 100,
-        "likes": 500000
-      },
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
-        "name": "Anthony Bourdain",
-        "picture": "https://example.com/anthony-bourdain.jpg",
-        "years_of_experience": 15,
-        "num_recipes": 75,
-        "likes": 250000
-      },
-      {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-        "name": "Emeril Lagasse",
-        "picture": "https://example.com/emeril-lagasse.jpg",
-        "years_of_experience": 25,
-        "num_recipes": 120,
-        "likes": 500000
-      },
-      {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
-        "name": "Ina Garten",
-        "picture": "https://example.com/ina-garten.jpg",
-        "years_of_experience": 15,
-        "num_recipes": 90,
-        "likes": 350000
-      }
-    ]
-  }
+
+
+    [
+        {
+          "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+          "name": "Gordon Ramsay",
+          "picture": "https://i.ibb.co/tH76SYP/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-conf.jpg",
+          "years_of_experience": 30,
+          "num_recipes": 150,
+          "likes": 1000000,
+          "category__id": 1,
+          "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has a reputation for being tough and demanding, both in the kitchen and on his TV shows, but he is also highly respected for his culinary skills and knowledge."
+        },
+        {
+          "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+          "name": "Jamie Oliver",
+          "picture": "https://i.ibb.co/F3cF6hT/chef-posing-with-knife-his-kitchen.jpg",
+          "years_of_experience": 25,
+          "num_recipes": 200,
+          "likes": 750000,
+          "category__id": 2,
+          "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his focus on using fresh, healthy ingredients and promoting healthy eating, as well as his work advocating for better food education in schools."
+        },
+        {
+          "_id": "f69a695f037cd9484cecaea37ca71011",
+          "name": "Nigella Lawson",
+          "picture": "https://i.ibb.co/ZJ2pMf1/female-chef-standing-with-crossed-arms-white-uniform-looking-happy.jpg",
+          "years_of_experience": 20,
+          "num_recipes": 100,
+          "likes": 500000,
+          "category__id": 3,
+          "description": "Nigella Lawson is a British food writer, journalist, and television personality. She is known for her easy, approachable recipes and her focus on comfort food and home cooking."
+        },
+        {
+          "_id": "f69a695f037cd9484cecaea37ca71012",
+          "name": "Anthony Bourdain",
+          "picture": "https://i.ibb.co/687YCgx/female-chef-chopping-vegetables-kitchen-1.jpg",
+          "years_of_experience": 15,
+          "num_recipes": 75,
+          "likes": 250000,
+          "category__id": 4,
+          "description": "Anthony Bourdain was an American chef, author, and television personality. He was known for his adventurous spirit and his love of exploring different cultures through their food."
+        },
+        {
+          "_id": "11468ed61aee84de492a8b04158a22f9",
+          "name": "Emeril Lagasse",
+          "picture": "https://i.ibb.co/XtYKnDp/chef-with-pan-copy-space.jpg",
+          "years_of_experience": 25,
+          "num_recipes": 120,
+          "likes": 500000,
+          "category__id": 5,
+          "description": "Emeril Lagasse is an American chef, restaurateur, and television personality. He is known for his expertise in Cajun and Creole cuisine, as well as his signature catchphrase, 'Bam!'"
+        },
+        {
+          "_id": "11468ed61aee84de492a8b04158a22f0",
+          "name": "Ina Garten",
+          "picture": "https://i.ibb.co/DzX8qMp/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy.jpg",
+          "years_of_experience": 15,
+          "num_recipes": 90,
+          "likes": 350000,
+          "category__id": 6,
+          "description": "Ina Garten is an American chef, author, and television personality. She is known for her focus on simple, elegant dishes and her emphasis on using fresh, high-quality ingredients."
+        }
+        
+
+      ]
+    
+    
+  
   
