@@ -5,7 +5,7 @@ const port =process.env.PORT || 5000;
 
 const recipe= require('./data/recipe.json');
 const category = require('./data/category.json')
-
+const latest = require('./data/latest.json')
 app.use(cors())
 app.get('/',(req,res) =>{
     res.send('Cooking in running')
@@ -15,6 +15,9 @@ app.get('/recipe',(req,res) =>{
 })
 app.get('/category',(req, res)=>{
     res.send(category)
+})
+app.get('/latest',(req,res)=>{
+    res.send(latest)
 })
 app.get('/recipe/:id',(req, res) =>{
     const id = parseInt(req.params.id);

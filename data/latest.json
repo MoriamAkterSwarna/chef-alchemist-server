@@ -1,0 +1,72 @@
+[
+      {
+        "recipe_name": "Mediterranean Quinoa Salad",
+        "latest_recipe_id": "0001",
+        "recipe_type": "Salad",
+        "img": "https://i.ibb.co/9H7F6mD/mexican-tacos-with-beef-tomato-sauce-salsa-1.jpg",
+        "health_benefit": [
+          "High in protein from quinoa and chickpeas",
+          "Packed with veggies like tomatoes, cucumbers, and bell peppers",
+          "Contains healthy fats from olives and avocado",
+          "Gluten-free and vegan"
+        ]
+      },
+      {
+        "recipe_name": "Chicken Noodle Soup",
+        "latest_recipe_id": "0002",
+        "recipe_type": "Soup",
+        "img": "https://i.ibb.co/PcBBTSY/top-view-appetizing-pozole-bowl-1.jpg",
+        "health_benefit": [
+          "May help reduce inflammation and boost immunity",
+          "Contains protein from chicken",
+          "Hydrating and soothing for a sore throat"
+        ]
+      },
+      {
+        "recipe_name": "Berry Smoothie",
+        "latest_recipe_id": "0003",
+        "recipe_type": "Beverage",
+        "img": "https://i.ibb.co/Krg8Gvm/plate-nachos-with-salsa-dip.jpg",
+        "health_benefit": [
+          "High in antioxidants from berries",
+          "May help reduce inflammation",
+          "Contains fiber for digestive health"
+        ]
+      },
+      {
+        "recipe_name": "Mediterranean Quinoa Salad",
+        "latest_recipe_id": "0138",
+        "recipe_type": "Salad",
+        "img": "https://i.ibb.co/9H7F6mD/mexican-tacos-with-beef-tomato-sauce-salsa-1.jpg",
+        "health_benefit": [
+          "High in protein from quinoa and chickpeas",
+          "Packed with veggies like tomatoes, cucumbers, and bell peppers",
+          "Contains healthy fats from olives and avocado",
+          "Gluten-free and vegan"
+        ]
+      },
+      {
+        "recipe_name": "Chicken Noodle Soup",
+        "latest_recipe_id": "0712",
+        "recipe_type": "Soup",
+        "img": "https://i.ibb.co/PcBBTSY/top-view-appetizing-pozole-bowl-1.jpg",
+        "health_benefit": [
+          "May help reduce inflammation and boost immunity",
+          "Contains protein from chicken",
+          "Hydrating and soothing for a sore throat"
+        ]
+      },
+      {
+        "recipe_name": "Berry Smoothie",
+        "latest_recipe_id": "0011",
+        "recipe_type": "Beverage",
+        "img": "https://i.ibb.co/Krg8Gvm/plate-nachos-with-salsa-dip.jpg",
+        "health_benefit": [
+          "High in antioxidants from berries",
+          "May help reduce inflammation",
+          "Contains fiber for digestive health"
+        ]
+      }
+    ]
+  
+  
