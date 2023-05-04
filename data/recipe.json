@@ -29,8 +29,7 @@
                       "Brush with a beaten egg and bake in the oven for 20-25 minutes.",
                       "Let it rest for a few minutes before serving."
                     ],
-                    "rating": 4.9,
-                    "favorite": false
+                    "rating": 4.9
                   },
                   {
                     "recipe_name": "Beef Burger",
@@ -142,8 +141,8 @@
                 "Transfer the mixture to a baking dish and spread the mashed potatoes on top.",
                 "Bake for 25-30 minutes or until the potatoes are golden brown."
               ],
-              "rating": 4.3,
-              "favorite": false
+              "rating": 4.3
+              
             }
           ]
         },  
@@ -235,8 +234,7 @@
                       "Spread the broccoli mixture in a single layer on a baking sheet.",
                       "Roast for about 20-25 minutes or until"
                     ],
-                    "rating": 4.7,
-                    "favorite": false
+                    "rating": 4.7
                 }
                 ]
                     
@@ -290,8 +288,7 @@
                 "Grill the patties for about 5-6 minutes on each side or until fully cooked.",
                 "Serve on a toasted bun with your desired toppings."
               ],
-              "rating": 4.6,
-              "favorite": false
+              "rating": 4.6
             },
             {
               "recipe_name": "Shepherd's Pie",
@@ -311,8 +308,7 @@
                 "Transfer the mixture to a baking dish and spread the mashed potatoes on top.",
                 "Bake for 25-30 minutes or until the potatoes are golden brown."
               ],
-              "rating": 4.3,
-              "favorite": false
+              "rating": 4.3
             }
           ]
     
@@ -349,8 +345,7 @@
                 "Roast for about 1 hour and 15 minutes or until the internal temperature reaches 165 degrees F.",
                 "Let the chicken rest for 10-15 minutes before carving and serving."
               ],
-              "rating": 4.8,
-              "favorite": false
+              "rating": 4.8
             },
             {
               "recipe_name": "Parker's Beef Stew",
@@ -382,8 +377,7 @@
                 "Remove from the oven and add the frozen peas.",
                 "Let sit for a few minutes before serving."
               ],
-              "rating": 4.7,
-              "favorite": false
+              "rating": 4.7
             },
             {
               "recipe_name": "Parmesan Roasted Broccoli",
@@ -403,8 +397,7 @@
                 "Spread the broccoli mixture in a single layer on a baking sheet.",
                 "Roast for about 20-25 minutes or until"
               ],
-              "rating": 4.7,
-              "favorite": false
+              "rating": 4.7
           }
           ]
         },
@@ -473,8 +466,7 @@
                 "Remove from the oven and add the frozen peas.",
                 "Let sit for a few minutes before serving."
               ],
-              "rating": 4.7,
-              "favorite": false
+              "rating": 4.7
             },
             {
               "recipe_name": "Parmesan Roasted Broccoli",
@@ -494,8 +486,7 @@
                 "Spread the broccoli mixture in a single layer on a baking sheet.",
                 "Roast for about 20-25 minutes or until"
               ],
-              "rating": 4.7,
-              "favorite": false
+              "rating": 4.7
           }
           ]
         }
